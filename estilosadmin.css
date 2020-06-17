@@ -1,0 +1,82 @@
+.barra
+{
+	background-color:  #00aebb;
+	color: white;
+}
+
+.barra a
+{
+    color: white;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+body
+{
+	background-image: url("Img/wall.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.cabeza-modal
+{
+		background-color:  #00aebb;
+	color: white;
+}
+
+#titulo
+{
+	font-size: 2em;
+	color: white;
+	margin-top: 10%;
+	text-shadow: 2.5px 2.5px #505050;
+}
+
+#imglogin
+{
+	border-radius: 150px;
+	border-width: 1px;
+	border-color: #00ceae;
+}
+
+.nombre
+{
+	font-family: helvetica;
+	font-size: 1.7em;
+	color: white;
+	text-shadow: 3px 3px #505050;
+}
+
+.contra
+{
+	font-family: helvetica;
+	font-size: 1.7em;
+	color: white;
+	text-shadow: 2.5px 2.5px #505050;
+}
+
+.botonlogin
+{
+	background-color:  #00ceae;
+	color: white;
+}
+
+.botonlogin.hover
+{
+	background-color: #00f2ee;
+	color: gray;
+
+}
+body
+{
+	background-image: url("Img/wall.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+.bordes
+{
+	border-color: #00ceae;
+}
